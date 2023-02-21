@@ -1,1 +1,1 @@
-# recursion_elementary_teamDev
+# 個人課題　Git練習
